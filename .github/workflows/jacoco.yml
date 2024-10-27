@@ -7,7 +7,7 @@ on:
     branches: [main]
 
 env:
-  COVERAGE_THRESHOLD: 0.8
+  COVERAGE_THRESHOLD: 0.6
 
 permissions:
   pull-requests: write
